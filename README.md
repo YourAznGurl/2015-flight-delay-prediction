@@ -10,10 +10,7 @@ Semester: Spring 2026
 ## Team Members:
 
 - Ena Tarumi
-- Robert Layton
 - Beyza Yavuz
-- Christopher Naraysingh
-- Shaniya Rinehardt
 
 ## Project Overview:
 

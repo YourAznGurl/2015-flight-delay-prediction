@@ -142,6 +142,7 @@ Created by Ena Tarumi (垂水 映那).
 This project is licensed under the Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0) License.
 
 You are free to:
+
 • Use this project for personal and educational purposes  
 • Share it with others  
 • Remix, adapt, and build upon it  

@@ -134,3 +134,22 @@ flight-delay-prediction-ai/
 ## Summary
 
 This project demonstrates a complete machine learning workflow for predicting flight delays using real-world aviation data. Despite class imbalance, the model achieves solid performance and provides meaningful insights into key delay factors.
+
+## Credits
+
+Created by Ena Tarumi (垂水 映那).
+
+This project is licensed under the Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0) License.
+
+You are free to:
+• Use this project for personal and educational purposes  
+• Share it with others  
+• Remix, adapt, and build upon it  
+
+Under the following terms:
+• Attribution — You must give appropriate credit to the creator  
+• NonCommercial — You may not use this project for commercial purposes  
+
+No additional restrictions — You may not apply legal or technological measures that restrict others from doing anything the license permits.
+
+© 2026 Ena Tarumi. All rights reserved.
